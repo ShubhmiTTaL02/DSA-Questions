@@ -1,3 +1,4 @@
+import java.util.*;;
 class Solution {
     public List<Integer> lexicalOrder(int n) {
         List<Integer> result=new ArrayList<>();
