@@ -1,5 +1,7 @@
 # Daily LeetCode DSA Solutions
 
+[View my LeetCode Account](https://leetcode.com/u/ShubhmiTTaL/)
+
 Welcome to my repository! 🚀
 
 This repository contains my **daily solutions** to LeetCode problems focusing on **Data Structures and Algorithms (DSA)**. The goal of this project is to enhance my problem-solving skills by solving various coding problems consistently.
